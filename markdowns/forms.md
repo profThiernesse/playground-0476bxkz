@@ -10,7 +10,7 @@ Un formulaire fournit un espace sur la page HTML où l'utilisateur peut entrer d
 |`input`|[Champ](https://www.w3schools.com/tags/tag_input.asp)|
 |`select`|[Liste déroulante](https://www.w3schools.com/tags/tag_select.asp)|
 |`option`|[Elément de liste](https://www.w3schools.com/tags/tag_option.asp)|
-|`textarea`|[Zone de texte multiligne](https://www.w3schools.com/tags/tag_option.asp)|
+|`textarea`|[Zone de texte multiligne](https://www.w3schools.com/tags/tag_textarea.asp)|
 
 ## Exercice 1
 
